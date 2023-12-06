@@ -30,7 +30,7 @@ const injuk = {
 ![Swagger](https://img.shields.io/badge/Swagger-44A833?style=flat-square&logo=Swagger&logoColor=white)
 ![Serverless](https://img.shields.io/badge/Serverless-FD5750?style=flat-square&logo=Serverless&logoColor=white)
 
-#### Database
+#### database
 ![Database](https://skillicons.dev/icons?i=mysql,postgresql)
 
 #### tools
