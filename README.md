@@ -6,10 +6,14 @@
 ```javascript
 const injuk = {
     name: "InJi Hong",
+    work: "Megazone Cloud",
     position: "Back-end Developer",
     skill: {
         code: ["JavaScript", "Kotlin"],
         database: ["MySQL", "PostgreSQL"]
+    },
+    currently: {
+        studying: ["Spring WebFlux", "Kotlin Coroutines", "MongoDB"]
     },
     funFact: "🍾🍾🍾 => 🤪"
 };
@@ -45,12 +49,12 @@ const injuk = {
 ![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=flat-square&logo=Obsidian&logoColor=white)
 
 #### certifications 😅
-![AWS CSA](https://img.shields.io/badge/AWS%20CSA(만료)-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white)
-![GCP CPA](https://img.shields.io/badge/GCP%20CPA(만료)-4285F4?style=flat-square&logo=Google%20Cloud&logoColor=white)
-![CCNP](https://img.shields.io/badge/CCNP(만료)-1BA0D7?style=flat-square&logo=Cisco&logoColor=white)
-![CCNA](https://img.shields.io/badge/CCNA(만료)-1BA0D7?style=flat-square&logo=Cisco&logoColor=white)
+![AWS CSA](https://img.shields.io/badge/AWS%20CSA(expired)-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white)
+![GCP CPA](https://img.shields.io/badge/GCP%20CPA(expired)-4285F4?style=flat-square&logo=Google%20Cloud&logoColor=white)
+![CCNP](https://img.shields.io/badge/CCNP(expired)-1BA0D7?style=flat-square&logo=Cisco&logoColor=white)
+![CCNA](https://img.shields.io/badge/CCNA(expired)-1BA0D7?style=flat-square&logo=Cisco&logoColor=white)
 
-### 📫 How to reach me
+### 📫 How to reach me?
 
 ---
 [![Tistory](https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white)](https://ingnoh.tistory.com)
